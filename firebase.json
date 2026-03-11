@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "chiken-by-neley",
+    "site": "chiken-by-neley-boitt",
     "public": "dist",
     "ignore": [
       "firebase.json",
